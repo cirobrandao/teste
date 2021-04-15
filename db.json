@@ -1,0 +1,9 @@
+{
+    "desenvolvedores" : [
+    {"id":"1","nome":"Hugo Marcelo Barros","sexo":"Masculino","hobby":"Não definido","datanascimento":"1965-11-10"},
+    {"id":"2","nome":"Carlos Benjamin Elias Souza","sexo":"Masculino","hobby":"Não definido","datanascimento":"1942-03-03"},
+    {"id":"3","nome":"Sueli Stella Mendes","sexo":"Feminino","hobby":"Não definido","datanascimento":"1961-05-16"},
+    {"id":"4","nome":"Tomás Antonio Lucas Nogueira","sexo":"Masculino","hobby":"Não definido","datanascimento":"1957-10-20"},
+    {"id":"5","nome":"Marina Louise Fernanda Fernandes","sexo":"Feminino","hobby":"Não definido","datanascimento":"1967-11-05"}
+    ]
+}
